@@ -21550,7 +21550,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .float-img{
-  width: 95%;
+  width: 90%;
 }
 
 @media (min-width: 768px) {
